@@ -1,3 +1,3 @@
-# DL_study
+# Toy_Project
 
-Deep Learning 공부용
+공부용 프로젝트
